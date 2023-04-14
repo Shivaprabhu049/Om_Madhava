@@ -10,6 +10,7 @@ Feeling like an eager beaver? Jump in to the quick start docs and get making you
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)
+come on bboy
 {% endcontent-ref %}
 
 ## Want to deep dive?
